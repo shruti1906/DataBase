@@ -1,0 +1,25 @@
+ab1000,Mansi,Shah,29,A101,MSBA,I,Spring 2020, ,F1
+bc1001,Vibhuti,Vadje,25,A102,MSBA,D,Fall 2020, ,H4
+cd1002,Shruti,Bhalotiya,28,A103,MSBA,D,Spring 2021, ,H4
+ef1003,Aakar,Kale,35,A104,MSBA,I,Fall 2020, ,F1
+gh1004,Arjav,Kala,24,A105,MSBA,I,Spring 2021, ,F1
+ij1005,John,Doe,31,A106,MSIT,D,Fall 2020, ,Not Required
+kl1006,Tulip,Jane,30,A107,MiF,D,Spring 2020, ,H1B
+mn1007,Lynn,Tran,24,A108,MiF,I,Fall 2020, ,F1
+op1008,Lily,Ross,26,A109,MSAM,D,Fall 2021, ,Not required
+qr1009,Terry,Cryan,25,A110,MSIT,I,Spring 2020, ,F1
+st1010,Sarah,Fischbach,27,A111,MSAM,I,Spring 2021, ,Not Required
+uv1011,Sam,Cook,28,A112,MiF,D,Fall 2020, ,H4
+wx1012,Siji,Rachel,32,A113,MSIT,D,Spring 2020, ,H4
+yz1013,Tom,Rachel,24,A114,MSIT,I,Fall 2020, ,F1
+az1014,Dony,George,23,A115,MiF,I,Spring 2020, ,F1
+by1015,Mike,Zane,31,A116,MSAM,I,Fall 2020, ,F1
+cx1016,Rubin,Stephan,30,A117,MSAM,D,Fall 2021, ,H1B
+dw1017,Sophie,Zhang,26,A118,MiF,I,Spring 2020, ,F1
+ev1018,Apoorva,Nerkar,27,A119,MSBA,D,Fall 2020, ,Not Required
+fu1019,Shweta,Arande,27,A120,MSBA,I,Fall 2021, ,F1
+gt1020,Aditya,Modi,28,A121,MSAM,D,Spring 2021, ,H1B
+hs1021,Arpita,Pal,29,A122,MSIT,I,Fall 2020, ,F1
+ir1022,Jude,Mathias,32,A123,MSIT,D,Spring 2021, ,H1B
+jq1023,Shweta,Tiwari,24,A124,MiF,I,Fall 2021, ,F1
+kp1024,Rahul,Joshi,28,A125,MiF,I,Spring 2020, ,F1

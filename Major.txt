@@ -1,0 +1,4 @@
+MSBA,Master of Science in Business Analytics
+MSIT,Master of Science in Information Technology
+MiF,Master of Science in Finance
+MSAM,Master of Science in Applied Mathematics

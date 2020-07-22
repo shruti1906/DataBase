@@ -1,0 +1,24 @@
+B101,Modern Database Management,Pearson Education,$200 
+B102,Python for Everybody,Hachette Livre,$35 
+B103,Java: A Beginner's Guide,HarperCollins,$76 
+B104,Introductory Statistics with R,Springer,$41 
+B105,Machine Learning with R,Macmillan Publishers,$60 
+B106,Data Science with Business,Simon & Schuster,$50 
+B107,Concepts in Federal Taxation 2011,McGraw-Hill Education,$200 
+B108,The Data Warehouse Toolkit,Houghton Mifflin Harcourt,$35 
+B109,Introduction to Databases and Data Warehouses,Scholastic,$75 
+B110,Big Data Analytics,Cengage Learning,$129 
+B111,Learning Spark: Lightning-Fast Big Data Analysis,Springer Nature,$35 
+B112,Storytelling with Data: A Data Visualization Guide for Business Professionals,Wiley,$30 
+B113,Financial Planning & Analysis and Performance Management,Kodansha,$45 
+B114,Healthcare Finance,Shueisha,$25 
+B115,Accounting Information Systems ,Grupo Santillana,$55 
+B116,Probability Theory: The Logic of Science,Bonnier Books,$65 
+B117,The Art of Scientific Computing,Editis,$30 
+B118,Introduction to Scientific and Technical Computing,Oxford University Press,$142 
+B119,The Handbook of Fixed Income Securities,Klett,$29
+B120,Complex Variables and Applications ,Egmont Books,$20 
+B121,Business Data Communication and Networking ,Penguin Random House,$76 
+B122,A Primer on Corporate Governance,Business Expert Press,$34.95
+B123,Investment Banking: Valuation Leveraged Buyouts and Mergers,Wiley,$43.83
+B124,International Finance: Theory and Policy,Pearson,$34.86

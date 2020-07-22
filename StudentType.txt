@@ -1,0 +1,2 @@
+I,International
+D,Domestic

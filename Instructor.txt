@@ -1,0 +1,8 @@
+I1,Jiming Wu,VBT-355,jiming.wu@csueastbay.edu,510-885-3099
+I10,Yuanyuan Gao,VBT-433, yuanyuan.gao@csueastbay.edu,510-885-3307
+I2,Jyotishka Ray,VBT-343,jyotishka.ray@csueastbay.edu,510-885-4686
+I12,Arkady Khodursky,VBT-421,arkady.khodursky@csueastbay.edu,510-885-3311
+I3,Lan Wang,VBT-356,lan.wang@csueastbay.edu,510-885-3091
+I16,Zinovy Radovilsky,VBT-435,zinoy.radovilsky@csueastbay.edu,510-885-3376
+I8,Surendra Sarnikar,VBT-312,surendra.sarnikar@csueastbay.edu,408-885-4686
+I15,Balaraman Rajan,VBT-222,balaraman.rajan@csueastbay.edu,510-885-3313
